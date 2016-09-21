@@ -28,6 +28,7 @@ exec dockerd \
   --graph=$ALTDOCKER_GRAPH \
   --host=unix://$ALTDOCKER_SOCKET \
   --pidfile=$ALTDOCKER_PIDFILE \
+  "$@" \
 ;
 
 # EOF
