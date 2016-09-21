@@ -1,6 +1,7 @@
 How to use
 ----------
 
+* get recent (1.12.1) docker binaries (`./get_docker.sh`)
 
 * create symlinks to `altdocker.sh` and `altdockerd.sh` (e.g. `cli-dae1` and `dae1` accordingly)
 
